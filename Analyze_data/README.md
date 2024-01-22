@@ -1,2 +1,1 @@
-# Creating a README file for a Python data analysis project involves providing clear instructions on how to use the code, dependencies, and any other relevant information. 
-# Below is a template for a README file that you can use as a starting point. Customize it based on the specifics of your data analysis project.
+# Creating a README file for a Python data analysis project involves providing clear instructions on how to use the code, dependencies, and any other relevant information.Below is a template for a README file that you can use as a starting point. Customize it based on the specifics of your data analysis project.
